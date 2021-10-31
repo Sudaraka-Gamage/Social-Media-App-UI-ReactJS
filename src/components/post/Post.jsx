@@ -13,7 +13,7 @@ export default function Post() {
 
                     </div>
                     <div className="postTopRight">
-                        <MoreVert/>
+                        <MoreVert className="postTopRightIcon"/>
                     </div>
                 </div>
 

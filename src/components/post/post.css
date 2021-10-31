@@ -17,6 +17,9 @@
     display: flex;
     align-items: center;
 }
+.postTopRightIcon{
+      cursor:pointer;
+}
 .postProfileImg{
     width: 32px;
     height: 32px;
