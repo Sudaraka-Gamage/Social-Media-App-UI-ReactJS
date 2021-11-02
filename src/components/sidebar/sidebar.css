@@ -1,4 +1,6 @@
 .sidebar{
+    position: sticky;
+    top: 50px;
     flex: 2.5;
     height: calc(100vh - 50px);
     overflow-y: scroll;
@@ -17,6 +19,7 @@
 
 .sidebarWrapper{
     padding: 20px;
+    position: sticky;
 }
 .sidebarList{
     padding: 0;
